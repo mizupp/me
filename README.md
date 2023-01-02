@@ -5,8 +5,8 @@
   
 </p>
 
-<p align="center">Reach out to me on <a href="https://www.linkedin.com/in/mahmood-u-8b351a197/">LinkedIn</a> 📫</p>
-
+<!-- <p align="center">Reach out to me on <a href="https://www.linkedin.com/in/mahmood-u-8b351a197/">LinkedIn</a> 📫</p>
+ -->
 <div align="center">
 <h4>Programming Languages:</h4>
 <img alt="HMTL" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
