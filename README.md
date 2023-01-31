@@ -1,8 +1,8 @@
-<h1 align="center"> Hello, I am Miz </h1>
+
 <div align="center">
 <img src="https://i.ibb.co/Wxz5xn4/Coming-Soon.png" align="center" style="width: 100%" />
 </div>  
-
+<h1 align="center"> Hello, I am Miz </h1>
 <p align="center">I am a first class graduate of Computer Science who is currently undergoing training at Futureproof. <br/>
 
   
